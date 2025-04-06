@@ -3,7 +3,8 @@
 [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/ionbazan/go-nric/ci.yml?branch=main)](https://github.com/ionbazan/go-nric/actions)
 [![Go Version](https://img.shields.io/badge/Go-%3E%3D1.20-00ADD8)](https://golang.org/)
 [![Codecov](https://img.shields.io/codecov/c/gh/ionbazan/go-nric)](https://codecov.io/gh/ionbazan/go-nric)
-[![Go Report Card](https://goreportcard.com/badge/github.com/ionbazan/go-nric)](https://goreportcard.com/report/github.com/ionbazan/go-nric)
+[![Go Report Card](https://goreportcard.com/badge/github.com/ionbazan/go-nric?style=flat-square)](https://goreportcard.com/report/github.com/ionbazan/go-nric)
+[![PkgGoDev](https://pkg.go.dev/badge/mod/github.com/ionbazan/go-nric)](https://pkg.go.dev/mod/github.com/ionbazan/go-nric)
 [![License](https://img.shields.io/github/license/ionbazan/go-nric)](https://github.com/ionbazan/go-nric/blob/main/LICENSE)
 
 **Supports new 2022 M-series FIN numbers!**
